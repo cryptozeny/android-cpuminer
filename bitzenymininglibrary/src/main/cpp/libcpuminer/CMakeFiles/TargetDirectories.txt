@@ -1,0 +1,3 @@
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/CMakeFiles/edit_cache.dir
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/CMakeFiles/rebuild_cache.dir
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/CMakeFiles/cpuminer.dir

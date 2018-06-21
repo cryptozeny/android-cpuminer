@@ -31,7 +31,7 @@ add_library(
 
 # Prebuilt libraries
 
-if (${TARGET} STREQUAL "__KITKAT__")
+if (NOT ${TARGET} STREQUAL "__KITKAT__")
     add_library(z STATIC IMPORTED)
 
     set_target_properties(

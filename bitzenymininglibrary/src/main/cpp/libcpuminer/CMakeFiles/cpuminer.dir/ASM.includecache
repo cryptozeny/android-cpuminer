@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/cpuminer-config.h
+
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/scrypt-arm.S
+cpuminer-config.h
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/cpuminer-config.h
+
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/scrypt-x64.S
+cpuminer-config.h
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/cpuminer-config.h
+
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/scrypt-x86.S
+cpuminer-config.h
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/cpuminer-config.h
+
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/sha2-arm.S
+cpuminer-config.h
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/cpuminer-config.h
+
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/sha2-x64.S
+cpuminer-config.h
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/cpuminer-config.h
+
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/sha2-x86.S
+cpuminer-config.h
+/home/ak/git/CPUMINER/ANDROID/BitZenyAndroidMiningLibrary/bitzenymininglibrary/src/main/cpp/libcpuminer/cpuminer-config.h
+
